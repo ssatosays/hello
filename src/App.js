@@ -11,7 +11,7 @@ function App() {
           <small>@ssatosays</small>
         </p>
         <p>
-          testtesttest
+          Check out the readme or the links below.
         </p>
         <a
           className="App-link"
